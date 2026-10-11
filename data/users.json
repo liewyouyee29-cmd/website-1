@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "f746f20c-5514-4d57-806c-91cbdb013a02",
+      "email": "test@example.com",
+      "name": "Test User",
+      "passwordHash": "$2a$10$nG73nSClAlr8RiBJ5WQTV.//.zrHZwgw6A1c5P/MnaIcUODugs0va",
+      "createdAt": "2026-10-11T01:47:36.843Z",
+      "credits": 21,
+      "plan": "free"
+    }
+  ]
+}
